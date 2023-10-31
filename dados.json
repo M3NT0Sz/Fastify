@@ -1,7 +1,28 @@
 {
-    "faculdade": "Fatec de Presidente Prudente",
-    "turma":{
-        "nome": "Turma de ADS",
-        "alunos": []
-    }
+  "faculdade": "Fatec de Presidente Prudente",
+  "turma": {
+    "nome": "Turma de ADS",
+    "alunos": [
+      {
+        "nome": "Matheus Mendes",
+        "idade": 18,
+        "cidade": "Pirapozinho"
+      },
+      {
+        "nome": "Matheus Mendes",
+        "idade": 18,
+        "cidade": "Pirapozinho"
+      },
+      {
+        "nome": "Matheus Mendes",
+        "idade": 18,
+        "cidade": "Pirapozinho"
+      },
+      {
+        "nome": "Matheus Mendes",
+        "idade": 18,
+        "cidade": "Pirapozinho"
+      }
+    ]
+  }
 }
